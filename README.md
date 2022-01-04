@@ -22,7 +22,7 @@ area as this area complements my studies and I am keen to gain more experience i
 - 💻 I’m currently working at Travlr Indonesia
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@kdgilang](https://twitter.com/kdgilang)
-- 📝[Resume](https://drive.google.com/file/d/1Tl4ykzzl5Y_0yDVlD91Vqq7ygpnBJpGX/view)
+- 📝[Resume](https://drive.google.com/file/d/1BmL3_4QXRKRGxehHvZ1RuWuDeMQAPRA2/view)
 
 If you like what I do, maybe consider [buy me a coffee](https://www.paypal.com/paypalme/buygilangacoffee/7)
 
@@ -32,4 +32,4 @@ If you like what I do, maybe consider [buy me a coffee](https://www.paypal.com/p
 <br />
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=dracula" alt="kdgilang" />
+<img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=gotham" alt="kdgilang" />
