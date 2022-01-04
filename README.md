@@ -12,9 +12,9 @@
 
 Hi, I'm Gilang from indonesia, I have been fascinated by coding since high school. e.g. developing
 apps and building websites when I was working remotely at digital agency based in germany as a full stack developer. I gained experience working in this
-area as this area complements my studies and I am keen to gain more experience in the software engineer world.
+area as this area complements my studies and I am keen to gain more experience in the programming world.
 
-  <img align="right" alt="GIF" src="https://github.com/kdgilang/kdgilang/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -26,4 +26,10 @@ area as this area complements my studies and I am keen to gain more experience i
 
 If you like what I do, maybe consider [buy me a coffee](https://www.paypal.com/paypalme/buygilangacoffee/7)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=dracula" alt="kdgilang" />
