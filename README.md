@@ -24,6 +24,6 @@ area as this area complements my studies and I am keen to gain more experience i
 - 📫 How to reach me: [@kdgilang](https://twitter.com/kdgilang)
 - 📝[Resume](https://drive.google.com/file/d/1Tl4ykzzl5Y_0yDVlD91Vqq7ygpnBJpGX/view)
 
-If you like what I do, maybe consider [buying me a coffee](https://www.paypal.com/paypalme/buygilangacoffee/7)
+If you like what I do, maybe consider [buy me a coffee](https://www.paypal.com/paypalme/buygilangacoffee/7)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=dracula" alt="kdgilang" />
