@@ -10,9 +10,8 @@
 
 <br />
 
-Hi, I'm Gilang from indonesia, I have been fascinated by coding since high school. e.g. developing
-apps and building websites when I was working remotely at digital agency based in germany as a full stack developer. I gained experience working in this
-area as this area complements my studies and I am keen to gain more experience in the programming world.
+Hi, I'm Gilang from Indonesia, I have been fascinated by coding since high school. e.g. developing
+apps and building websites. I gained experience working in this area as this area complements my studies and I am keen to gain more experience in the Programming World.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="500" height="320" />
   
