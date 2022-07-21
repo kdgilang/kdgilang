@@ -23,7 +23,7 @@ apps and building websites. I gained experience working in this area as this are
 - 📫 How to reach me: [@kdgilang](https://twitter.com/kdgilang)
 - 📝[Resume](https://drive.google.com/file/d/1BmL3_4QXRKRGxehHvZ1RuWuDeMQAPRA2/view)
 
-If you like what I do, maybe consider [buy me a coffee](https://www.paypal.com/paypalme/buygilangacoffee/7)
+If you like what I do, maybe consider [buy me a Rocket](https://www.paypal.com/paypalme/buygilangacoffee/7)
 
 <br />
 <br />
