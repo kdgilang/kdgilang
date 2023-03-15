@@ -17,13 +17,9 @@ apps and building websites. I gained experience working in this area as this are
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm Co-Founder of [Sunshine Bimbel](https://sunshinebimbel.com)
-- 💻 I’m currently working at Travlr Indonesia
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@kdgilang](https://twitter.com/kdgilang)
-- 📝[Resume](https://drive.google.com/file/d/1BmL3_4QXRKRGxehHvZ1RuWuDeMQAPRA2/view)
-
-If you like what I do, maybe consider [buy me a Rocket](https://www.paypal.com/paypalme/buygilangacoffee/7)
+- 👨🏽‍💻 I'm Co-Founder of [Sunshine Bimbel](https://sunshinebimbel.com).
+- 💻 I’m currently working at Travlr Indonesia.
+- 💬 Ask me about anything, I am happy to help.
 
 <br />
 <br />
