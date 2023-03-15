@@ -21,5 +21,4 @@ apps and building websites. I gained experience working in this area as this are
 - 💻 I’m currently working at Travlr Indonesia.
 - 💬 Ask me about anything, I am happy to help.
 
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=gotham" alt="kdgilang" />
