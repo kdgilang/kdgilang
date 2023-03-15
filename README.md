@@ -22,9 +22,4 @@ apps and building websites. I gained experience working in this area as this are
 - 💬 Ask me about anything, I am happy to help.
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=gotham" alt="kdgilang" />
