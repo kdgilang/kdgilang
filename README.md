@@ -20,6 +20,6 @@ apps and building websites. I gained experience working in this area as this are
 - 👨🏽‍💻 I'm Co-Founder of [Sunshine Bimbel](https://sunshinebimbel.com).
 - 💻 I’m currently working at Travlr Indonesia.
 - 💬 Ask me about anything, I am happy to help.
-- 📝[Resume](https://drive.google.com/file/d/1L8oU6JsQYD_VVXbogGTHP1o5aTo2QRXk/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1L8oU6JsQYD_VVXbogGTHP1o5aTo2QRXk/view?usp=sharing)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kdgilang&show_icons=true&theme=gotham" alt="kdgilang" />
