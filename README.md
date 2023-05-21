@@ -14,8 +14,6 @@ Hi, I'm Gilang from Indonesia, I have been fascinated by coding since high schoo
 apps and building websites. I gained experience working in this area as this area complements my studies and I am keen to gain more experience in the Programming World.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="350" height="270" />
-  
-**Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://drive.google.com/file/d/1L8oU6JsQYD_VVXbogGTHP1o5aTo2QRXk/view?usp=sharing)
