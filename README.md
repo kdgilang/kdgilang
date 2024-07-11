@@ -9,9 +9,3 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kdgilang.kadgilang)
 
 <br />
-
-Hi, I'm Gilang from Indonesia, I have been fascinated by coding since high school. e.g. developing
-apps and building websites. I gained experience working in this area as this area complements my studies and I am keen to gain more experience in the Programming World.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="350" height="270" />
-
