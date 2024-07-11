@@ -7,5 +7,3 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kdgilang.kadgilang)
-
-<br />
